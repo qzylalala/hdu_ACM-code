@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549033126 source:c:\users\qzylalala\desktop\c\homework\统计单词数\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
